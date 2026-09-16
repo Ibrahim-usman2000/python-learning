@@ -60,3 +60,22 @@ This repository documents my Python learning journey from beginner to developer.
 - VS Code
 - Git
 - GitHub
+## Python Learning Progress
+
+### Completed Concepts
+
+**`first_program.py`**
+
+* Variables
+* Data types
+* User input
+* Arithmetic operations
+* Output with `print()`
+
+**`practice.py`**
+
+* Conditional statements (`if`, `elif`, `else`)
+* Comparison operators (`>=`)
+* Basic decision-making and program logic
+* Converting user input to an integer using `int()`
+  
